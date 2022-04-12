@@ -34,7 +34,7 @@ Remove leading and trailing spaces from CSV file with PowerShell to get the Powe
 * Execute the Command
 
 ```bash
-  ./PowerShellExampleScript.ps1
+  ./WhiteSpaceRemover.ps1
 ```
 * Or you can right click on the File and select Run with Powershell
 * If the Powershell returns an error about Execution Policy not allowing Windows to execute Powershell Scripts then do the following:
