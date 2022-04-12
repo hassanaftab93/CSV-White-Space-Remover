@@ -24,7 +24,7 @@ Remove leading and trailing spaces from CSV file with PowerShell to get the Powe
 * Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/hassanaftab93/CSV-White-Space-Remover
 ```
 
 * Go to the project directory Manually or Run the Command
