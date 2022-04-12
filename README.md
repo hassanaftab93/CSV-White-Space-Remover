@@ -48,6 +48,7 @@ Remove leading and trailing spaces from CSV file with PowerShell to get the Powe
 ## Releases
 
 * [Alpha Pre-release v0.1.0-alpha](https://github.com/hassanaftab93/CSV-White-Space-Remover/releases/tag/v0.1.0-alpha)
+* [Alpha Pre-release v0.1.1](https://github.com/hassanaftab93/CSV-White-Space-Remover/releases/tag/v0.1.1-alpha)
 
 ## Contributing
 
