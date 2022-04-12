@@ -16,7 +16,6 @@ So this script file in the code will help remove those white spaces, it converts
 
 Remove leading and trailing spaces from CSV file with PowerShell to get the PowerShell script to work.
 
-
 ## Run Locally
 
 * Rename your CSV file to "file.csv"
@@ -45,10 +44,14 @@ Remove leading and trailing spaces from CSV file with PowerShell to get the Powe
 ```bash
   Set-ExecutionPolicy RemoteSigned
 ```
+
+## Releases
+
+* - [Alpha Pre-release v0.1.0-alpha](https://github.com/hassanaftab93/CSV-White-Space-Remover/releases/tag/v0.1.0-alpha)
+
 ## Contributing
 
 Contributions are always welcome!
-
 
 ## Authors
 
